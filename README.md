@@ -4,7 +4,7 @@ Clean, offline tool that turns plain-language change descriptions into
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) messages.
 Pure HTML/CSS/JS — no frameworks, no CDNs, no backend.
 
-![Commit generator preview](image-preview.png)
+![Commit generator preview](screenshots/image-preview.png)
 
 ## Features
 
